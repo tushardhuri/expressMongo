@@ -13,7 +13,7 @@ router.get('/', (req, res) => {
 //@route    POST api/contacts
 //@desc     Add new user
 //@access   Private
-router.get('/', (req, res) => {
+router.post('/', (req, res) => {
   res.send('Add contact');
 });
 
