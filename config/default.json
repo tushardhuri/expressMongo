@@ -1,0 +1,3 @@
+{
+"mongoURI":"mongodb+srv://CustomerStorage_User1:<pwd>@customerstorage-o0vg2.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
